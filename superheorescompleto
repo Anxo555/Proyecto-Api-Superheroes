@@ -1,0 +1,54 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ab26c56d-4ce4-4976-ab01-9fe18b7020bc",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#preguntas"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4d03c82a-82c2-4ebe-a8e8-ff4cd4f7aad4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#preguntasSUPERHEROES\n",
+    "#1¿ Cual es el superheroes mas potencia, mas veloz(velocidad) y mas poder de combate ? \n",
+    "#2 ¿En base a promediar (mediana) la inteligencia y la fuerza, ¿Cual es el superheroe que combinada estas dos habilidades tiene el mayor y menor promedio? ?\n",
+    "#3¿Filtrar por genero, indicar la proporcion de hombres y mujeres , indicar la etnia mas dominante de cada genero ?\n",
+    "#4¿ Calcular cual de los superheroes mas altos , mas bajos y mas pesados (los 3 primeros) ?\n",
+    "#5¿ Cual son los tipos de Etnias que existen y la proporcion total de cada Etnia ?\n",
+    "#6 ¿ Cual es el color de ojos y pelo mas comun ?\n",
+    "#7¿Desglosar cuantos editores hay, y por cada editor cuantos superheroes hay?\n",
+    "#8¿Cual es la aparicion mas antigua y mas nueva , en que lugar nacio es superheroe y cual es su Alias?\n",
+    "#9¿Cuantos superheroes buenos y malos existen y comparar marvel con DC?\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
