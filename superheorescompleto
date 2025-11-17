@@ -28,6 +28,41 @@
     "#8¿Cual es la aparicion mas antigua y mas nueva , en que lugar nacio es superheroe y cual es su Alias?\n",
     "#9¿Cuantos superheroes buenos y malos existen y comparar marvel con DC?\n"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "291b3163-b0a4-4665-8d2c-a78e99b74563",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "id\n",
+    "nombre\n",
+    "inteligencia\n",
+    "fuerza\n",
+    "velocidad\n",
+    "resistencia\n",
+    "poder\n",
+    "combate\n",
+    "nombre completo\n",
+    "alter egos\n",
+    "alias\n",
+    "lugar de nacimiento\n",
+    "primera aparición\n",
+    "editorial\n",
+    "alineamiento\n",
+    "género\n",
+    "raza\n",
+    "altura\n",
+    "peso\n",
+    "color de ojos\n",
+    "color de pelo\n",
+    "ocupación\n",
+    "base\n",
+    "afiliación a grupos\n",
+    "familiares\n",
+    "url de la imagen"
+   ]
   }
  ],
  "metadata": {
